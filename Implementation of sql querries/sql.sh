@@ -1,0 +1,1 @@
+python main.py "select sum(A) from table1"
